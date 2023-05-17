@@ -55,6 +55,11 @@
     align-items: center;
     height: calc(100vh - var(--navbar-height));
   }
+
+  .hidden {
+    display: none
+   }
+   
   
   @keyframes rotate-forever {
     0% {
